@@ -1,0 +1,23 @@
+{
+  "name": "gyan-pkj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyan9427/gyan-pkj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyan9427/gyan-pkj/issues"
+  },
+  "homepage": "https://github.com/gyan9427/gyan-pkj#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
